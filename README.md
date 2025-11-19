@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Christian Balio a BSIT 4th year student from Colegio De San Juan De Letran Manila<br><br>Looking for an Internship<br><br>- 🔭 Recent Capstone Project with collaborators - [VLSQZ Catering Management]</p>
+<p align="left">I'm Christian Balio a BSIT 4th year student from Colegio De San Juan De Letran Manila<br><br>Currently looking for an Internship<br><br>- 🔭 Recent Capstone Project with collaborators - [VLSQZ Catering Management]</p>
 
 ###
 
