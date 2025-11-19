@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Christian Balio a BSIT 4th year student from Colegio De San Juan De Letran Manila<br><br>Looking for an Internship<br><br>- 🔭 Recent Project with collaborators - [VLSQZ Catering Management]</p>
+<p align="left">I'm Christian Balio a BSIT 4th year student from Colegio De San Juan De Letran Manila<br><br>Looking for an Internship<br><br>- 🔭 Recent Capstone Project with collaborators - [VLSQZ Catering Management]</p>
 
 ###
 
@@ -49,13 +49,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chrollio/Chrollio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chrollio/Chrollio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chrollio/Chrollio/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
